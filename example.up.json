@@ -1,0 +1,7 @@
+{
+  "name": "airtable",
+  "environment": {
+    "AIRTABLE_BASE": "",
+    "AIRTABLE_API_KEY": ""
+  }
+}
